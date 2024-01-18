@@ -17,7 +17,7 @@ I'm a self-taught passionate .NET  Developer from Indonesia
 
 **About me**
 - 📫 Reach me at **ichwaldidiosyaban@gmail.com**
-- 💼 .NET Developer  at [Perta Life Insurance ](http://pertalife.com/) 
+- 💼 .IT Programmer  at [Tasliman Insurance Brokers ](https://talisman.co.id/) 
 
 
 
