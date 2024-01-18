@@ -12,12 +12,12 @@
 
 <p align="center"> <a href="https://twitter.com/diossyban17" target="blank"><img src="https://img.shields.io/twitter/follow/diossyban17?logo=twitter&style=for-the-badge" alt="diossyban17" /></a> </p>
 
-I'm a self-taught passionate .NET  Developer from Indonesia 
+I'm a self-taught passionate Software Developer from Indonesia 
 
 
 **About me**
 - 📫 Reach me at **ichwaldidiosyaban@gmail.com**
-- 💼 .IT Programmer  at [Tasliman Insurance Brokers ](https://talisman.co.id/) 
+- 💼 IT Programmer  at [Tasliman Insurance Brokers ](https://talisman.co.id/) 
 
 
 
