@@ -23,7 +23,7 @@ I'm a self-taught passionate Software Developer from Indonesia
 
 
 <p align="center"> 
- <a href="https://github.com/diossyaban/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diossyaban&layout=compact&theme=buefy&hide_border=true" /></a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diossyaban&layout=compact&theme=buefy&hide_border=true)](https://github.com/diossyaban/github-readme-stats)
 
 
 
